@@ -1,3 +1,4 @@
+//Generate a product code by joining the product name and ID.
 public class Task6 {
     public static void main(String[] args) {
         String productName = "Misti";
