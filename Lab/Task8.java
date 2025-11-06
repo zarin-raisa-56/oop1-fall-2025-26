@@ -1,5 +1,5 @@
 //Show the total number of characters in a user's message.
-package lab;
+
 
 public class Task8 {
   

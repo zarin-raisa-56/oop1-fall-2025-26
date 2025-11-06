@@ -1,5 +1,5 @@
 //A store gives a 15% discount  on an item that costs  $250.Find the final price after discount .
-package lab;
+
 public class Task2 {
     public static void main(String[] args) {
         double originalPrice = 250.0;

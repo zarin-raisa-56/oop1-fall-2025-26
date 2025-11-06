@@ -1,5 +1,5 @@
 //Swap two integers without a temporary variable and using arithmetic only.
-package lab;
+
 import java.util.Scanner;
 public class Task4 {
     public static void main(String[] args) {

@@ -1,5 +1,5 @@
 //Convert a user-entered sentence to both uppercase and lowercase.
-package lab;
+
 import java.util.Scanner;
 
 public class Task9 {

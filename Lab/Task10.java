@@ -1,5 +1,4 @@
 //Replace a specific word in a sentence.
-package lab;
 
 public class Task10 {
     

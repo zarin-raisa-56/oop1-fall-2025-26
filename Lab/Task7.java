@@ -1,5 +1,5 @@
 //Extract the username (before @) from an email address.
-package lab;
+
 
 public class Task7 {
     
