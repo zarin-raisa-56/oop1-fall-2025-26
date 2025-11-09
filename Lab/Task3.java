@@ -1,6 +1,5 @@
 //Convert Celsius to Fahrenheit temparature without any  logical checks.
 
-
 import java.util.Scanner;
 
 public class Task3 {

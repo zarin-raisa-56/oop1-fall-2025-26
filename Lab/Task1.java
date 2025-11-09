@@ -1,5 +1,6 @@
 //a teacher enters the score of three students..write a program to calculate and display the average score with two decimal places.
 import java.util.Scanner;
+
 public class Task1 {
   public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
