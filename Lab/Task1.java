@@ -1,4 +1,4 @@
-//a teacher enters the score of three students..write a program to calculate and display the average score with two decimal places.
+//a teacher enters the score of three student..write a program to calculate and display the average score with two decimal places.
 import java.util.Scanner;
 
 public class Task1 {
